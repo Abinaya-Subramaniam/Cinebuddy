@@ -28,7 +28,7 @@ Check out the live app here: [https://cinebuddy.streamlit.app/](https://cinebudd
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/cinebuddy.git
+   git clone https://github.com/Abinaya-Subramaniam/cinebuddy.git
    cd cinebuddy
    pip install -r requirements.txt
     ```
